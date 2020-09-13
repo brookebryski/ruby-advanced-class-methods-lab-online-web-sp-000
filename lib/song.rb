@@ -40,5 +40,5 @@ class Song
   def self.alphabetical
     return Array.sort
   end
-  
+
 end
